@@ -1,83 +1,89 @@
-# 🔦 Dynamic LED Chaser using Arduino UNO
+# 🔦 Dynamic LED Chaser Projects using Arduino UNO
 
 ## 📌 Project Overview
 
-In many electronics projects, creating dynamic lighting effects can require complex circuits and advanced programming.  
-The **Dynamic LED Chaser** project simplifies this process by using an **Arduino UNO** to control multiple LEDs in a sequential (chasing) pattern.
+This repository contains **three Arduino LED Chaser programs** designed to demonstrate different LED animation patterns using an **Arduino UNO**.
 
-This project is perfect for beginners who want to learn:
-- Arduino basics  
-- LED animation  
-- Breadboard circuit design  
-- Timing and sequencing logic  
+Dynamic lighting effects are commonly used in electronics projects, but they often require complex circuitry and programming. These projects simplify the learning process by using basic Arduino logic to control multiple LEDs in sequential and patterned animations.
 
-This is one of the **12 amazing projects** that can be built using this electronics kit.
+These projects are part of a **12-in-1 Electronics Learning Kit** and are ideal for beginners and students.
 
 ---
 
 ## 🧰 Components Required
 
-- Arduino UNO Board x 1
-- LEDs x 12
-- 220 Ohm Resistors x 12
-- Breadboard x 1
+- 1 x Arduino UNO Board  
+- 12 x LEDs  
+- 12 x 220 Ohm Resistors  
+- 1 x Breadboard  
 - Jumper Wires  
-- Double Battery Holder with DC Jack & Switch x 1
-- 3.7 V Rechargeable Batteries x 2
+- 1 x Double Battery Holder with DC Jack & Switch  
+- 2 x 3.7 V Rechargeable Batteries  
+
+---
+
+## 📁 Project Files
+
+The table below describes the Arduino source files included in this repository:
+
+| File Name | Description |
+|----------|-------------|
+| [`35.1.ino`](./35.1.ino) | Basic LED chaser program where LEDs turn ON and OFF sequentially from first to last. Ideal for understanding digital output basics. |
+| [`35.2.ino`](./35.2.ino) | Improved LED chaser with reverse or bidirectional movement, helping learners understand loops and timing logic. |
+| [`35.3.ino`](./35.3.ino) | Advanced LED pattern demonstrating smoother transitions and enhanced animation effects using delays and structured logic. |
 
 ---
 
 ## 🔌 Circuit Description
 
-- Each LED is connected to an Arduino digital pin through a 220Ω resistor.
-- The negative (cathode) side of each LED is connected to GND.
-- The Arduino turns the LEDs ON and OFF one by one, creating a chasing effect.
-- Power can be supplied via USB or using the battery holder with switch.
+- Each LED is connected to an Arduino digital pin via a 220Ω resistor.
+- All LED cathodes are connected to the Arduino GND.
+- The Arduino controls each LED individually to create chasing and animation effects.
+- Power can be supplied using USB or the battery holder with switch.
 
 <p align="center">
   <img src="./Diagram.jpg" alt="Smart Waste Segregator" width="800">
-</p>
+</p> 
 
 ---
 
-## 💻 Software & Code
+## 💻 Software Details
 
 - Platform: Arduino  
-- Board: Arduino UNO  
+- Board: Arduino UNO   
 
-The program uses:
-- `pinMode()` to set LED pins as outputs  
-- `digitalWrite()` to control LEDs  
-- `delay()` to control the chasing speed  
-
-Upload the provided `.ino` file to the Arduino using **Arduino IDE**.
+Main functions used:
+- `pinMode()`
+- `digitalWrite()`
+- `delay()`
+- `for` loops
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Use
 
-1. Build the circuit on a breadboard
-2. Connect the Arduino to your PC
+1. Assemble the circuit on a breadboard
+2. Connect the Arduino to your computer
 3. Open Arduino IDE
 4. Select **Board: Arduino UNO**
 5. Select the correct **COM Port**
-6. Upload the code
-7. Power the circuit and observe the LED chaser effect
+6. Open any `.ino` file from this repository
+7. Upload the code and observe the LED effects
 
 ---
 
 ## 📷 Applications
 
-- Learning Arduino basics  
-- LED animation projects  
+- Arduino learning projects  
+- LED animation practice  
 - Educational electronics kits  
-- Decorative lighting  
+- Decorative and display lighting  
 
 ---
 
-## 🛠️ Future Enhancements
+## 🛠️ Future Improvements
 
 - Speed control using a potentiometer  
-- Different LED patterns  
-- RGB LED support  
-- Button-controlled modes  
+- Button-controlled animation modes  
+- RGB LED effects  
+- Sound-reactive LED patterns  
