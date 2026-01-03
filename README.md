@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Hero Header with Gradient Background -->
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Arduino%20Projects&desc=A%20curated%20collection%20of%20Arduino%20projects&descSize=20&descAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Arduino%20Projects&desc=A%20curated%20collection%20of%20Arduino%20projects&descSize=20&descAlignY=75" />
 </div>
 A curated collection of Arduino projects ranging from beginner to advanced levels. This repository contains various Arduino-based implementations, experiments, and tutorials.
 
