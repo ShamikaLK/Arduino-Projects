@@ -14,8 +14,8 @@ The table below describes the Arduino source files included in this repository:
 
 | File Name | Description |
 |----------|-------------|
-| [`Dry Wet Waste Segregator Dustbin [ BinBot ]`](./Arduino-Projects/Dry%20Wet%20Waste%20Segregator%20Dustbin%20[%20BinBot%20]) | The Dry Wet Waste Segregator Dustbin is an automated system designed to detect and separate dry and wet waste using an ultrasonic sensor and a soil moisture sensor. |
-| [`LED Chaser`](./Arduino-Projects/LED%20Chaser) | This repository contains three Arduino LED Chaser programs designed to demonstrate different LED animation patterns using an Arduino UNO. |
+| [`Dry Wet Waste Segregator Dustbin [ BinBot ]`](./Dry%20Wet%20Waste%20Segregator%20Dustbin%20[%20BinBot%20]) | The Dry Wet Waste Segregator Dustbin is an automated system designed to detect and separate dry and wet waste using an ultrasonic sensor and a soil moisture sensor. |
+| [`LED Chaser`](./LED%20Chaser) | This repository contains three Arduino LED Chaser programs designed to demonstrate different LED animation patterns using an Arduino UNO. |
 
 ---
 ## 🛠️ Hardware Requirements
