@@ -119,7 +119,7 @@ void moveStop() {
   motor2.run(RELEASE);
 } 
 
-// Function to move the robot forward | රොබෝ එක ඉදිරියට ගෙනයාමේ ශ්‍රිතය
+// Function to move the robot forward | robot ව ඉදිරියට ගෙනයාමේ ශ්‍රිතය
 void moveForward() {
   if(!goesForward) {
     goesForward = true;
@@ -133,7 +133,7 @@ void moveForward() {
   }
 }
 
-// Function to move the robot backward | රොබෝ එක පසුපසට ගෙනයාමේ ශ්‍රිතය
+// Function to move the robot backward | robot ව පසුපසට ගෙනයාමේ ශ්‍රිතය
 void moveBackward() {
   goesForward = false;
   motor1.run(BACKWARD);      
@@ -145,7 +145,7 @@ void moveBackward() {
   }
 }  
 
-// Function to turn the robot right | රොබෝ එක දකුණට හැරවීමේ ශ්‍රිතය
+// Function to turn the robot right | robot ව දකුණට හැරවීමේ ශ්‍රිතය
 void turnRight() {
   motor1.run(FORWARD);
   motor2.run(BACKWARD);    
@@ -154,7 +154,7 @@ void turnRight() {
   motor2.run(FORWARD);    
 } 
 
-// Function to turn the robot left | රොබෝ එක වමට හැරවීමේ ශ්‍රිතය
+// Function to turn the robot left | robot ව වමට හැරවීමේ ශ්‍රිතය
 void turnLeft() {
   motor1.run(BACKWARD);     
   motor2.run(FORWARD); 
