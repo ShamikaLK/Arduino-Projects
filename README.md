@@ -17,6 +17,7 @@ The table below describes the Arduino source files included in this repository:
 | [`Dry Wet Waste Segregator Dustbin [ BinBot ]`](./Dry%20Wet%20Waste%20Segregator%20Dustbin%20[%20BinBot%20]) | The Dry Wet Waste Segregator Dustbin is an automated system designed to detect and separate dry and wet waste using an ultrasonic sensor and a soil moisture sensor. |
 | [`LED Chaser`](./LED%20Chaser) | This repository contains three Arduino LED Chaser programs designed to demonstrate different LED animation patterns using an Arduino UNO. |
 | [`Obstacle Avoiding bot`](./Obstacle%20Avoiding%20Bot) | This project demonstrates a simple Arduino-based obstacle avoiding robot using an ultrasonic sensor, servo motor, and DC motors. |
+| [`RPM Counter`](./RPM%20Counter) | This project demonstrates a simple RPM (Revolutions Per Minute) counter using an Arduino UNO, an IR sensor, a DC motor with a black disc, and a 16x2 I2C LCD display. |
 
 ---
 ## 🛠️ Hardware Requirements
@@ -58,6 +59,11 @@ I have put comments in the code. I have put them in both English and Sinhala lan
 This is how it is. Pay attention to that.
 
 ---
+
+* Repo Start In:- 01/01/2026
+* Last Update In:- 01/05/2026
+---
+
 <p align="center">
 Thank for using this. Please give this a star and a fork this repo. It would be a great help to me. Don't forget to follow me.
 </p>
