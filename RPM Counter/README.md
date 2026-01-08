@@ -11,27 +11,29 @@ This project is suitable for beginners who want to learn about:
 * Basic motor rotation measurement
 * Arduino libraries and hardware integration
 
+## 🧰 Components Required
+
+The following components are **mandatory** for this project:
+
+| Component | Quantity |
+|---------|----------|
+| Arduino UNO Board | 1 |
+| IR Sensor | 1 |
+| 16x2 LCD Display with I2C Module | 1 |
+| Motor & Black Disc | 1 |
+| Battery Holder | 1 |
+| 3.7V lithium ion Batteries | 1 |
+| Jumper Wires | As required |
+
+----
+
 ## 🖼️ Project Diagram
 
 <p align="center">
   <img src="./Diagram.jpg" alt="Arduino Obstacle Avoiding Robot" width="800">
 </p> 
 
----
-
-## 🧰 Components Required
-
-The following components are **mandatory** for this project:
-
-* Arduino UNO Board x 1
-* IR Sensor x 1
-* 16x2 LCD Display with I2C Module x 1
-* Motor & Black Disc x 1
-* Battery Holder x 1
-* 3.7V Rechargeable Batteries (lithium ion) x 1 
-* Some Jumper Wires
-
----
+----
 
 ## 📥 Library Requirement (Important)
 
