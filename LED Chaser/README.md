@@ -12,13 +12,17 @@ These projects are part of a **12-in-1 Electronics Learning Kit** and are ideal 
 
 ## 🧰 Components Required
 
-- Arduino UNO Board x 1
-- LEDs x 12
-- 220 Ohm Resistors x 12
-- Breadboard x 1
-- Jumper Wires  
-- Double Battery Holder with DC Jack & Switch x 1
-- 3.7 V Rechargeable Batteries x 2
+| Component | Quantity |
+|---------|----------|
+| Arduino UNO Board | 1 |
+| LEDs | 12 |
+| 220 Ohm Resistors | 12 |
+| Breadboard | 1 |
+| Jumper Wires |
+| Double Battery Holder | 1 |
+| DC Jack | 1 |
+| Switch | 1 |
+| 3.7 V Rechargeable Batteries | 2 |
 
 ---
 
