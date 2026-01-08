@@ -76,7 +76,7 @@ git clone https://github.com/ShamikaLK/Arduino-Projects.git
 ---
 
 <div align="center">
-    <p> **Repo Start In:- 01/01/2026 | Last Update In:- 01/08/2026** </p>
+    <p> **Repo Start In:- 01/01/2026&nbsp;|&nbsp;Last Update In:- 01/08/2026** </p>
 </div>
 
 ---
