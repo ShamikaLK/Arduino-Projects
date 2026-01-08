@@ -19,15 +19,17 @@ This project is ideal for **smart city**, **IoT**, and **automation** based wast
 
 ## 🧰 Components Required
 
-- Arduino UNO Board x1
-- Servo Motor x1
-- Soil Moisture Sensor x1
-- Ultrasonic Sensor (HC-SR04) x1
-- Breadboard x1
-- Jumper Wires  
-- USB Cable x1
+| Component | Quantity |
+|---------|----------|
+| Arduino UNO Board | 1 |
+| Servo Motor | 1 |
+| Soil Moisture Sensor | 1 |
+| Ultrasonic Sensor (HC-SR04) | 1 |
+| Breadboard | 1 |
+| Jumper Wires | As required |
+| USB Cable | 1 |
 
----
+----
 
 ## 🖼️ Project Diagram
 
@@ -35,7 +37,7 @@ This project is ideal for **smart city**, **IoT**, and **automation** based wast
   <img src="./Diagram.jpg" alt="Smart Waste Segregator" width="400">
 </p>
 
----
+----
 
 ## ⚙️ Working Principle
 
@@ -61,8 +63,3 @@ This project is ideal for **smart city**, **IoT**, and **automation** based wast
 - Add IoT connectivity for monitoring waste levels
 - Use multiple bins for better segregation
 - Integrate a display module for real-time status
-
----
-
-
-### ✨ Developed using Arduino
