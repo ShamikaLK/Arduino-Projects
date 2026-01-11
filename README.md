@@ -80,7 +80,7 @@ git clone https://github.com/ShamikaLK/Arduino-Projects.git
 ---
 
 <div align="center">
-    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/10/2026</b></p>
+    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/11/2026</b></p>
 </div>
 
 ----
