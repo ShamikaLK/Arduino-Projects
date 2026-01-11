@@ -22,6 +22,7 @@ The table below describes the Arduino source files included in this repository:
 | [`Joystick Maze Controller`](./Joystick%20Maze%20Controller) | This project is ideal for Arduino beginners, STEM projects, and interactive game design learning. |
 | [`Laser Security System`](./Laser%20Security%20Alarm) | This project is ideal for beginners, school projects, and basic electronics learning using Arduino. |
 | [`Automatic Water Level Alarm`](./Automatic%20Water%20Level%20Alarm) | This project is an Automatic Water Level Alarm System. |
+| [`RFID Door Lock System`](./Smart%20Door%20Lock%20using%20RFID%20Tag) | This project demonstrates an Arduino UNO based RFID Access Control System using an RFID Reader, Servo Motor, and Buzzer.  |
 
 ---
 ## 🛠️ Hardware Requirements
@@ -41,10 +42,11 @@ Specific requirements are listed in each project's folder.
 <details close>
 <summary>Click to view the pin diagram.</summary>
 
-| <p align="center">Arduino Uno R3</p> | <p align="center">Arduino Nano</p> |
+| Arduino Uno R3 [View](https://docs.arduino.cc/retired/boards/arduino-uno-rev3-with-long-pins/) | Arduino Nano [View](https://docs.arduino.cc/resources/pinouts/ABX00083-full-pinout.pdf) |
 |----------|-------------|
-| ![Uno](arduino_uno_pins.jpg) | ![Nano](arduino_nano_pins.jpg) |
-| <p align="center">[View Diagram](https://docs.arduino.cc/retired/boards/arduino-uno-rev3-with-long-pins/)</p> | <p align="center">[View Diagram](https://docs.arduino.cc/resources/pinouts/ABX00083-full-pinout.pdf)</p> |
+| ![Uno](./src/arduino_uno_pins.jpg) | ![Nano](./src/arduino_nano_pins.jpg) |
+| **RFIG Reader [View](https://www.elprocus.com/rc522-rfid-module/)** | **I2C Serial Interface [View](https://components101.com/modules/i2c-serial-interface-adapter-module)**|
+| ![rfid reader](./src/rfid_reader_pin.png) | ![I2C Serial](./src/I2C_Serial-Interface_pin.jpg) |
 </details>
 
 ---
