@@ -24,6 +24,7 @@ The table below describes the Arduino source files included in this repository:
 | [`Automatic Water Level Alarm`](./Automatic%20Water%20Level%20Alarm) | This project is an Automatic Water Level Alarm System. |
 | [`RFID Door Lock System`](./Smart%20Door%20Lock%20using%20RFID%20Tag) | This project demonstrates an Arduino UNO based RFID Access Control System using an RFID Reader, Servo Motor, and Buzzer.  |
 | [`Automatic Cloth Drying Stand`](./Automatic%20Cloth%20Drying%20Stand) | This project demonstrates an Automatic Clothes Drying Stand System using Arduino UNO, a Raindrop Sensor, and a Servo Motor.  |
+| [`DIY Robotic Arm`](./DIY%20Robotic%20Arm) | Precise object manipulation can be challenging without an efficient control system.  |
 
 ---
 ## 🛠️ Hardware Requirements
@@ -81,7 +82,7 @@ git clone https://github.com/ShamikaLK/Arduino-Projects.git
 ---
 
 <div align="center">
-    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/12/2026</b></p>
+    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/13/2026</b></p>
 </div>
 
 ----
