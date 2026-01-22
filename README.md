@@ -28,6 +28,7 @@ The table below describes the Arduino source files included in this repository:
 | [`Smart Car Parking Assister`](./Smart%20Car%20Parking%20Assister) | The system measures the distance between the vehicle and obstacles behind it. |
 | [`Dino Game`](./Dino%20Game) | This is a simple obstacle avoidance game inspired by the classic Chrome Dino game, running on an Arduino with a 16x2 character LCD display using an I2C interface. |
 | [`Bluetooth Controlled Car`](./Bluetooth-Controlled%20Robot) | This project is ideal for students and beginners who want hands-on experience with embedded systems and Bluetooth communication. |
+| [`4-Wheeler Line Following Robot`](./4-Wheeler%20Line%20Following%20Robot) | This project demonstrates how to build a 4-Wheeler Line Following Robot using an Arduino Uno.  |
 
 ---
 ## 🛠️ Hardware Requirements
@@ -85,7 +86,7 @@ git clone https://github.com/ShamikaLK/Arduino-Projects.git
 ---
 
 <div align="center">
-    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/21/2026</b></p>
+    <p><b>Repo Start In:- 01/01/2026&nbsp;&nbsp;|&nbsp;&nbsp;Last Update In:- 01/22/2026</b></p>
 </div>
 
 ----
