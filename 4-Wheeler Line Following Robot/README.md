@@ -28,6 +28,8 @@ This guide covers:
 
 ---
 
+## 🖼️ Project Diagram
+
 <p align="center">
   <img src="./Diagram.jpg" alt="Line Following Robot" width="800">
 </p> 
@@ -56,7 +58,7 @@ This robot uses **two IR sensors** to detect the line and an **L298N motor drive
 ## ⚙️ Connecting Motors to L298N Motor Driver
 
 1. Divide the **four DC motors into two pairs**.
-2. Connect each motor pair to the motor output terminals of the L298N driver as shown in the motor driver diagram.
+2. Connect each motor pair to the motor output terminals of the L298N driver as shown in the motor driver diagram. [view](#️-project-diagram)
 3. Identify the **positive (+)** and **negative (-)** terminals of each motor pair.
 4. Ensure correct polarity when connecting the motors to avoid reverse rotation issues.
 
