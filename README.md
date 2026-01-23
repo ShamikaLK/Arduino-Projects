@@ -54,6 +54,8 @@ Specific requirements are listed in each project's folder.
 | ![Uno](./src/arduino_uno_pins.jpg) | ![Nano](./src/arduino_nano_pins.jpg) |
 | **RFIG Reader [View](https://www.elprocus.com/rc522-rfid-module/)** | **I2C Serial Interface [View](https://components101.com/modules/i2c-serial-interface-adapter-module)**|
 | ![rfid reader](./src/rfid_reader_pin.png) | ![I2C Serial](./src/I2C_Serial-Interface_pin.jpg) |
+| **l298n Motor Driver [View](https://dronebotworkshop.com/dc-motors-l298n-h-bridge/)** | **hc d5 bluetooth module [View](https://www.electronicwings.com/sensors-modules/bluetooth-module-hc-05-)**|
+| ![l298n Motor Driver](./src/l298n_motor_driver_pinout.jpg) | ![hc d5 bluetooth module](./src/2_HC-05-Bluetooth_Pins.jpg) |
 </details>
 
 ---
@@ -61,7 +63,8 @@ Specific requirements are listed in each project's folder.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/ShamikaLK/Arduino-Projects.git
+git clone https://github.com/shamikalk/Arduino-Projects.git
+cd Arduino-Projects
 ```
 2. Navigate to the specific project folder
 3. Open the .ino file in Arduino IDE
